@@ -4,7 +4,7 @@
 - Technology : `html`, `css`, `javascript`, `typescript`, `angular`
 
 ### How to run ?
-- install [node js](https://nodejs.org/en/download/) and [Angular cli](https://cli.angular.io/)
+- Install [node js](https://nodejs.org/en/download/) and [Angular cli](https://cli.angular.io/)
 - download this repository.
 - open cmd prompt `cd game-center`
 - `npm install`
