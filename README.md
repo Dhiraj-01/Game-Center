@@ -1,9 +1,8 @@
 # GameCenter
 - Simple site created in Angular to play simple games.
 - Technology : `html`, `css`, `javascript`, `typescript`, `angular`
-```
 - games supported : `Tictactoe`, `N-Puzzle`
-
+```
 TicTacToe => 2 Mode 
   - Player vs Player
   - Player vs Computer
