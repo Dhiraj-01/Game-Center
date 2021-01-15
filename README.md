@@ -15,13 +15,5 @@ TicTacToe => 2 Mode
 - `npm install`
 - `ng serve --open`
 
-### Screenshots
-
-**Home**
-![Home](screenshot/home.PNG)
-
-**N-Puzzle**
-![N-Puzzle](screenshot/npuzzle.PNG)
-
-**Tic-Tac-Toe**
-![Tic-Tac-Toe](screenshot/tictactoe.PNG)
+### Preview
+![preview gif](screenshot/preview.gif)
